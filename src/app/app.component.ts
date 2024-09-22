@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
       <div class="left-section">
         <h1>Guia Acadêmico</h1>
         <p>Este site oferece informações úteis sobre sua jornada acadêmica.</p>
+        <h2>Uma das plataformas mais conhecidas - Currículo Lattes</h2>
+        <p> Aqui está um exemplo de um graduado em uma Universidade Pública Estadual que ao longo de sua jornada acadêmica teve diversas experiências com progetos e monitorias: http://lattes.cnpq.br/9553955079305917</p>
       </div>
       <div class="right-section"></div>
     </div>
