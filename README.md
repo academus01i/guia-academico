@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Especificações do Projeto Guia Academico
+
+Esse projeto foi um aprojeitamento de outros já elaborados para a trilha Fullstack do RESTICK36
+
+Foram utilizados o design de divisão de tela em 50% com gradiente cinza à esquerda, já a direita um espaço em branco para ser complementado com uma parte de inscrição com inserção de nome e e-mail para o usuário receber "NewsLettes Acadêmicos".
+
+A tecnica de flexbox foi uma tentativa na primeira Unidade utilizando card e foi implementada nesse projeto ao typescript.
+
+## Para rodar/clonar esse projeto
+
+Foram utilizadas o framework Angular, pontanto certifique-se de ter todas as dependencias necessárias já em sua máquina, assim como node.js.
+Certifique-se de configurar seu Vs Code para melhor ambientação do projeto, pois ele deve rodar de forma local através de terminal sendo necessário:
+1 - Fazer o clone corretamente
+2 - Usar os comandos para gerar o serve local do Angular (ng serve).
