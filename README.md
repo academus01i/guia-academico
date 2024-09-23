@@ -36,7 +36,7 @@ A tecnica de flexbox foi uma tentativa na primeira Unidade utilizando card e foi
 
 ## Para rodar/clonar esse projeto
 
-Foram utilizadas o framework Angular, pontanto certifique-se de ter todas as dependencias necessárias já em sua máquina, assim como node.js.
+Foram utilizadas o framework Angular (18.2.5), pontanto certifique-se de ter todas as dependencias necessárias já em sua máquina, assim como node.js (v20.17.0).
 Certifique-se de configurar seu Vs Code para melhor ambientação do projeto, pois ele deve rodar de forma local através de terminal sendo necessário:
 1 - Fazer o clone corretamente
 2 - Usar os comandos para gerar o serve local do Angular (ng serve).
